@@ -22,3 +22,6 @@
 ### Required Exercises
 - https://www.learnenough.com/command-line-tutorial/basics
 - https://www.learnenough.com/text-editor-tutorial
+
+### Aaron's section
+aint this great
