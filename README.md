@@ -22,3 +22,9 @@
 ### Required Exercises
 - https://www.learnenough.com/command-line-tutorial/basics
 - https://www.learnenough.com/text-editor-tutorial
+
+
+
+
+### Fergulati's Section
+This is pretty great.
