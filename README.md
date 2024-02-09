@@ -5,7 +5,7 @@
 - Objective: Everyone creates a pull request to add code to this repository.
 
 ### Commands we will use and process flow
-1. `git clone`
+1. `git clone git@github.com:chair28980/web-dev-wooooooo.git`
 2. `cd <directory>`
 3. `git checkout -b <branch-name>`
 4. `git status`
@@ -22,6 +22,9 @@
 ### Required Exercises
 - https://www.learnenough.com/command-line-tutorial/basics
 - https://www.learnenough.com/text-editor-tutorial
+
+### Aaron's section
+aint this great
 
 
 
